@@ -8,7 +8,7 @@ Anchor Foundation is a simple and responsive theme built on the Zurb Foundation 
 ### 0.2
 * Added header
 * Fixed CSS
-* Added jQuery for the sticky footer (Need to find another way :()
+* Added jQuery for the sticky footer (Need to find another way..)
 
 ### 0.1
 * First theme version
