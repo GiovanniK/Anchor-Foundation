@@ -1,5 +1,5 @@
-Theme name:    Foundation
-Description:   Made for Anchor using Zurb Foundation
-Author name:   Giovanni Kosman
-Author site:   http://pyco.nl
+Theme name:    Foundation
+Description:   Made for Anchor using Zurb Foundation
+Author name:   Giovanni Kosman
+Author site:   http://pyco.nl
 License:       http://licence.visualidiot.com
