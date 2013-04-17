@@ -10,7 +10,7 @@
         <h6>Written by <a href="#"><?php echo article_author('real_name'); ?></a> - <time datetime="<?php echo date(DATE_W3C, article_time()); ?>"><?php echo relative_time(article_time()); ?></time></h6>
         <div class="row">
           <div class="large-12 columns">
-            <?php echo Html::markdown(article_html()); ?>
+            <?php echo article_markdown(); ?>
           </div>
         </div>
       </article>
