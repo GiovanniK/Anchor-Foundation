@@ -7,6 +7,7 @@ Anchor Foundation is a simple and responsive theme built on the Zurb Foundation 
 ### - Changelog - 
 ### 0.3
 * Compatible with Anchor CMS 0.9
+
 ### 0.2
 * Added header
 * Fixed CSS
